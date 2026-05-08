@@ -50,7 +50,7 @@ O uso indevido pode configurar crime digital.
 ---
 
 ##  Objetivo
-Este repositório serve como material de estudo e prática para alunos da **RedScanAcademy Turma 12**, reforçando conceitos de:
+Este repositório serve como material de estudo e prática da **RedScanAcademy Turma 12**, reforçando conceitos de:
 - Análise de logs
 - Reconhecimento de ataques web
 - Varredura de rede e portas
