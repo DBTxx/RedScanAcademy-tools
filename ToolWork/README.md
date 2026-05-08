@@ -6,7 +6,7 @@ Permite realizar **PortScan** e **PingSweep** utilizando diferentes ferramentas 
 
 ---
 
-## 📌 Modo de Uso
+##  Modo de Uso
 ```bash
 ./script.sh <opção desejada>
 ```
@@ -16,7 +16,7 @@ Os resultados são exibidos na tela e também registrados no arquivo `toolwork.l
 
 ---
 
-## ⚙️ Opções disponíveis
+##  Opções disponíveis
 
 - **`-a` → PortScan com Hping3**  
   Realiza varredura de portas em um host específico usando **hping3**.  
@@ -68,7 +68,7 @@ Os resultados são exibidos na tela e também registrados no arquivo `toolwork.l
 
 ---
 
-## 📝 Observações
+##  Observações
 - Os resultados são salvos em `toolwork.log` com data e hora.  
 - O script utiliza **cores** para destacar mensagens de status.  
 - É necessário ter privilégios de **root** para usar `hping3`.  
@@ -76,7 +76,7 @@ Os resultados são exibidos na tela e também registrados no arquivo `toolwork.l
 
 ---
 
-## ⚠️ Aviso
+##  Aviso
 Este script foi desenvolvido para fins acadêmicos e laboratoriais.  
 Não deve ser utilizado em redes ou sistemas sem autorização explícita.
 ```
