@@ -9,7 +9,7 @@ Script para análise de logs de acesso, com foco em identificar indícios de ata
 ./redscan3-1.sh <opção> <ARQUIVO_DE_LOG>
 ```
 
-### ⚠️ IMPORTANTE
+### ⚠️ IMPORTANTE ⚠️ ###
 Para as opções **`-g`** e **`-h`**, é necessário passar também o **IP suspeito**.
 
 Exemplo:
@@ -100,9 +100,6 @@ Exemplo:
 
 ---
 
-```
 
----
 
-👉 Agora é só colar esse conteúdo no `RedScan3-1/README.md` e fazer o commit/push.  
 Quer que eu prepare também um **exemplo de saída simulada** para cada opção (como ficaria o resultado na tela), para deixar a documentação ainda mais prática?
