@@ -16,7 +16,7 @@ Ferramenta para análise de **logs de acesso web**, com foco em identificar ind�
 - Lista IPs e quantidade de requisições  
 - Registra tentativas de força bruta e acessos bem-sucedidos a arquivos críticos  
 
-👉 [Leia mais sobre o RedScan3-1](./RedScan3-1/README.md)
+👉 [RedScan3-1](./RedScan3-1/README.md)
 
 ---
 
@@ -26,7 +26,7 @@ Script para **varredura de rede e portas**, utilizando diferentes técnicas e fe
 - PingSweep com Hping3 e /dev/tcp  
 - Resultados salvos em `toolwork.log` com data/hora  
 
-👉 [Leia mais sobre o Tool-Work](./Tool-Work/README.md)
+👉 [Tool-Work](./Tool-Work/README.md)
 
 ---
 
