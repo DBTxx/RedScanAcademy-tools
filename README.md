@@ -6,7 +6,7 @@ Repositório com scripts desenvolvidos durante as aulas da **RedScanAcademy**, f
 
 ---
 
-## 📌 Scripts disponíveis
+##  Scripts disponíveis
 
 ### 🔹 RedScan3-1
 Ferramenta para análise de **logs de acesso web**, com foco em identificar indícios de ataques.  
@@ -16,28 +16,28 @@ Ferramenta para análise de **logs de acesso web**, com foco em identificar ind�
 - Lista IPs e quantidade de requisições  
 - Registra tentativas de força bruta e acessos bem-sucedidos a arquivos críticos  
 
-👉 [RedScan3-1](./RedScan3-1/README.md)
+ [RedScan3-1](./RedScan3-1/README.md)
 
 ---
 
-### 🔹 Tool-Work
+###  Tool-Work
 Script para **varredura de rede e portas**, utilizando diferentes técnicas e ferramentas.  
 - PortScan com Hping3, Netcat e /dev/tcp  
 - PingSweep com Hping3 e /dev/tcp  
 - Resultados salvos em `toolwork.log` com data/hora  
 
-👉 [Tool-Work](./Tool-Work/README.md)
+ [Tool-Work](./Tool-Work/README.md)
 
 ---
 
-## ⚠️ Aviso Importante
+##  Aviso Importante
 Todos os scripts aqui presentes foram desenvolvidos para **aprendizado em segurança da informação**.  
 Não devem ser utilizados em redes ou sistemas sem autorização explícita.  
 O uso indevido pode configurar crime digital.
 
 ---
 
-## 🛠️ Requisitos
+##  Requisitos
 - Linux (Debian/Kali recomendado)  
 - Bash  
 - Ferramentas auxiliares: `hping3`, `netcat`, `grep`, `awk`, `sed`, `timeout`  
@@ -45,7 +45,7 @@ O uso indevido pode configurar crime digital.
 
 ---
 
-## 📖 Objetivo
+##  Objetivo
 Este repositório serve como material de estudo e prática para alunos da **RedScanAcademy Turma 12**, reforçando conceitos de:
 - Análise de logs
 - Reconhecimento de ataques web
