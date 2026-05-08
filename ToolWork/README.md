@@ -1,6 +1,3 @@
-
-
-cat > README.md << 'EOF'
 # Tool-Work v0.1
 By Dj3g0Tx
 
