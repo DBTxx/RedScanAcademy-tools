@@ -8,7 +8,7 @@ Repositório com scripts desenvolvidos durante as aulas da **RedScanAcademy**, f
 
 ##  Scripts disponíveis
 
-### 🔹 RedScan3-1
+###  RedScan3-1
 Ferramenta para análise de **logs de acesso web**, com foco em identificar indícios de ataques.  
 - Detecta XSS, SQL Injection, Directory Traversal  
 - Identifica scanners e acessos a arquivos sensíveis  
