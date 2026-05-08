@@ -14,7 +14,11 @@ Ferramenta para análise de **logs de acesso web**, com foco em identificar ind�
 - Identifica scanners e acessos a arquivos sensíveis  
 - Mostra primeiro/último acesso de um IP  
 - Lista IPs e quantidade de requisições  
-- Registra tentativas de força bruta e acessos bem-sucedidos a arquivos críticos  
+- Registra tentativas de força bruta e acessos bem-sucedidos a arquivos críticos
+- rimeiro e ultimo acesso de um IP suspeito
+- Localizar user-agent utilizado por um IP suspeito
+- Listar os ips e verificar quantidade de requisições
+- Localizar acesso a um determinado arquivo sen  
 
  [RedScan3-1](./RedScan3-1/README.md)
 
