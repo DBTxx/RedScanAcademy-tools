@@ -72,7 +72,7 @@ Os resultados são exibidos na tela e também registrados no arquivo `toolwork.l
 - Os resultados são salvos em `toolwork.log` com data e hora.  
 - O script utiliza **cores** para destacar mensagens de status.  
 - É necessário ter privilégios de **root** para usar `hping3`.  
-- O uso é **educacional** e voltado para aprendizado em segurança de redes.  
+- O uso é **educacional**.  
 
 ---
 
