@@ -1,4 +1,3 @@
-```markdown
 # RedScan3-1
 By Dj3g0Tx
 
