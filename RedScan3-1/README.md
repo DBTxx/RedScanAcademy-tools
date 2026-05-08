@@ -8,7 +8,7 @@ Script para análise de logs de acesso, com foco em identificar indícios de ata
 ./redscan3-1.sh <opção> <ARQUIVO_DE_LOG>
 ```
 
-### ⚠️ IMPORTANTE ⚠️ ###
+###  IMPORTANTE  ###
 Para as opções **`-g`** e **`-h`**, é necessário passar também o **IP suspeito**.
 
 Exemplo:
