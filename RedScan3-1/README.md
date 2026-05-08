@@ -98,7 +98,3 @@ Exemplo:
 - Arquivos de log de acesso (ex: `access.log` do Apache, Nginx ou outro servidor web)
 
 ---
-
-
-
-Quer que eu prepare também um **exemplo de saída simulada** para cada opção (como ficaria o resultado na tela), para deixar a documentação ainda mais prática?
