@@ -27,7 +27,7 @@ Ferramenta para análise de **logs de acesso web**, com foco em identificar ind�
 ###  Tool-Work
 Script para **varredura de rede e portas**, utilizando diferentes técnicas e ferramentas.  
 - PortScan com Hping3, Netcat e /dev/tcp  
-- PingSweep com Hping3 e /dev/tcp  
+- PingSweep com Hping3, Netcat e /dev/tcp  
 - Resultados salvos em `toolwork.log` com data/hora  
 
  [Tool-Work](./Tool-Work/README.md)
